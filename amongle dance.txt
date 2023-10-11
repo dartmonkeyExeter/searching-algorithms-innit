@@ -1,0 +1,9 @@
+Binary search doesn't scan each item in a list. 
+It scans items based on the midpoint between the
+minimum possible value and the maximum possible
+value. 
+
+If a list is small, then using a linear search will
+likely be faster, as it will simply check every
+item quicker than it takes to divide over.
+
