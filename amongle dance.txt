@@ -7,3 +7,5 @@ If a list is small, then using a linear search will
 likely be faster, as it will simply check every
 item quicker than it takes to divide over.
 
+Linear searches can also be used on unsorted lists whereas a Binary Search cannot.
+
